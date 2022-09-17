@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  height: 310px;
+  width: 210px;
+}
+
+.user-image:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.card-footer {
+  background-color: #ffffff;
+  border: none;
+}
